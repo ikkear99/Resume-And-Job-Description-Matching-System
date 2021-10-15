@@ -1,4 +1,4 @@
-# Resume-Job-And-Description-Matching-System
+# Resume Job And Description Matching System
 
 ------------------------------------------
 
@@ -51,6 +51,8 @@ Similarity Measures
   - Sorensen Dice 
   - Cosine Similarity
   - Overlap Coefficient
+  
+<img src="https://latex.codecogs.com/svg.image?CVs&space;Ranking&space;=&space;\frac{Jaccard&plus;Dice&plus;Cosine&plus;Overlap}{4}" title="CVs Ranking = \frac{Jaccard+Dice+Cosine+Overlap}{4}" />
 
 ## *My Result*
 
