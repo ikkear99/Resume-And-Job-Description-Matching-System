@@ -38,7 +38,7 @@ Result classification
 
 ![Alt text](https://github.com/ikkear99/Resume-Job-And-Description-Matching-System/blob/Master/web_app/Images/result2.png "Model classification result")
 
-### *Calculate similarity between CV and JD*
+### *Calculate ranking between CVs and JD*
 
 Similarity Measures
 
