@@ -1,0 +1,11 @@
+$font-1: "Pacifico", cursive;
+$font-2: serif, cursive;
+
+@mixin triangle($size, $color) {
+    width: 0;
+    height: 0;
+    border-left: $size solid transparent;
+    border-right: $size solid transparent;
+
+    border-bottom: $size solid $color;
+}
