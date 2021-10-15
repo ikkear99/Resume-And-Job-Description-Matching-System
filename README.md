@@ -28,7 +28,7 @@ This is an AI system that allows to select the most potential CVs for a correspo
 
 - Using GGnew free train model to word embedding 
 
-- Using TCN model(Acc~92%)
+- Using TCN model to extract knowledge from candidate (Acc~92%)
 
 Model Accuracy
 
