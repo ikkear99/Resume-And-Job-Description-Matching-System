@@ -1,4 +1,4 @@
-# Resume Job And Description Matching System
+# Resume And Job Description Matching System
 
 ------------------------------------------
 
